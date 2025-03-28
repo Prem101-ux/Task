@@ -1,0 +1,7 @@
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\bin\Debug\Task.exe.config
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\bin\Debug\Task.exe
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\bin\Debug\Task.pdb
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\obj\Debug\Task.exe
+C:\Users\prem jawane\Desktop\WEB_API\Demo\Task\obj\Debug\Task.pdb
